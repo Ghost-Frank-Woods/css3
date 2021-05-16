@@ -1,0 +1,13 @@
+div p{
+    color: orange;
+}
+
+
+p~samp {
+    color:rgb(148, 134, 109);
+}
+
+
+p , ul {
+    color:rgba(48, 180, 130, 0.3);};
+}

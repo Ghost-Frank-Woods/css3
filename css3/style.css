@@ -1,0 +1,33 @@
+input[type=text],input[type=email],input[type=age],input[type=password],select,textarea{
+
+    color: antiquewhite;
+    border: antiquewhite solid ;
+    border-radius: 40px;
+    width: 230px;
+    height: 20px;
+    background: #27248470;
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+    font-size: 10px;
+                                }
+
+table , tr , td{
+
+    border: coral solid 1px;
+     
+    border-collapse: collapse;
+
+    direction: rtl;
+
+}
+
+
+tr:hover{
+    color: rgb(141, 141, 148);
+    font-size: large;
+}
+
+tr:nth-child(odd){
+    background-color: khaki;
+}
